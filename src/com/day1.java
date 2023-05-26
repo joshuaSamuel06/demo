@@ -11,6 +11,7 @@ public class day1 {
 		int x=Integer.parseInt(a);
 		int y=Integer.parseInt(b);
 		System.out.println(x*y);
+		System.out.println("added");
 		
 	}
 	
