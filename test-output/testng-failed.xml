@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Dextor]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Dekisugi(failed)">
+    <parameter name="A" value="2"/>
+    <parameter name="B" value="3"/>
+    <classes>
+      <class name="com.day1">
+        <methods>
+          <include name="Alphafirst"/>
+        </methods>
+      </class> <!-- com.day1 -->
+    </classes>
+  </test> <!-- Dekisugi(failed) -->
+</suite> <!-- Failed suite [Dextor] -->
