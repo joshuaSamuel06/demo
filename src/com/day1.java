@@ -12,6 +12,7 @@ public class day1 {
 		int y=Integer.parseInt(b);
 		System.out.println(x*y);
 		System.out.println("added");
+		System.out.println("git master code");
 		
 	}
 	
